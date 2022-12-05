@@ -65,7 +65,7 @@ m.summary()
 ![image](https://user-images.githubusercontent.com/103049243/205568025-a7908c2f-334e-4ce7-95e9-acf67e6fd197.png)
 
 ## Advantage :
-* We can identify the customer needs with this program.
+* We can identify the utensils with this program.
 * It is easy to use.
 * The reaction speed is fast.
 ## Result:
